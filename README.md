@@ -432,7 +432,7 @@ get_waitlist(gpa,students_names)
 
 Testing - Password Requirement
 
-![Team%2015%20Group%20Project%20%282%29.png](attachment:Team%2015%20Group%20Project%20%282%29.png)
+![Team 15 Group Project (2).png](attachment:Team 15 Group Project (2).png)
 
 Student Grades
 
@@ -440,8 +440,8 @@ Student Grades
 
 Reports
 
-![Team%2015%20Group%20Project%20%284%29.png](attachment:Team%2015%20Group%20Project%20%284%29.png)
+![Team 15 Group Project (4).png](attachment:Team 15 Group Project (4).png)
 
 Additional Report
 
-![Team%2015%20Group%20Project%20%281%29.png](attachment:Team%2015%20Group%20Project%20%281%29.png)
+![Team 15 Group Project (1).png](attachment:Team 15 Group Project (1).png)
