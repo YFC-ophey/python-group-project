@@ -429,3 +429,19 @@ total_accepted = accepted_students(schools)
 ```python
 get_waitlist(gpa,students_names)
 ```
+
+Testing - Password Requirement
+
+![Team%2015%20Group%20Project%20%282%29.png](attachment:Team%2015%20Group%20Project%20%282%29.png)
+
+Student Grades
+
+![student-grades.png](attachment:student-grades.png)
+
+Reports
+
+![Team%2015%20Group%20Project%20%284%29.png](attachment:Team%2015%20Group%20Project%20%284%29.png)
+
+Additional Report
+
+![Team%2015%20Group%20Project%20%281%29.png](attachment:Team%2015%20Group%20Project%20%281%29.png)
